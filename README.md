@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pancham Bopanna D
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I use ReactJS for my work
 - 💞️ I’m looking to collaborate on building amazing websites
 - 📫 How to reach me pancham271195@gmail.com
 
