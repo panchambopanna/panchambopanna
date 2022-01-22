@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Pancham Bopanna D  ![Alt Text](https://media.giphy.com/media/ZG719ozZxGuThHBckn/giphy.gif)
+- 👋 Hi, I’m Pancham Bopanna D  
 - 🏢 I'm currently working at Accenture
 - 👨🏽‍💻 I’m interested in Frontend Development
 - 🌱 I use ReactJS for my work
 - 💞️ I’m looking to collaborate on building websites
 - 📫 Reach me by mail on pancham271195@gmail.com
-
+![Alt Text](https://media.giphy.com/media/ZG719ozZxGuThHBckn/giphy.gif)
 
 
 <!---
