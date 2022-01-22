@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on building websites
 - 📫 Reach me by mail on pancham271195@gmail.com
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://images.app.goo.gl/1uRRBHxWZ2ChThm67)
 
 <!---
 panchambopanna/panchambopanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
