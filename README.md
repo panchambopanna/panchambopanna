@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Pancham Bopanna D
-- 👀 I’m interested in Frontend Development
+- 🏢 I'm currently working at Accenture
+- 👨🏽‍💻 I’m interested in Frontend Development
 - 🌱 I use ReactJS for my work
-- 💞️ I’m looking to collaborate on building amazing websites
-- 📫 How to reach me pancham271195@gmail.com
+- 💞️ I’m looking to collaborate on building websites
+- 📫 Reach me by mail on pancham271195@gmail.com
 
 <!---
 panchambopanna/panchambopanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
