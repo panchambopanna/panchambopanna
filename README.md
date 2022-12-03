@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pancham Bopanna D  
-- 🏢 I'm currently working at Accenture
+- 🏢 I'm currently working at Dassault Systemes
 - 👨🏽‍💻 I’m interested in Frontend Development
 - 🌱 I use ReactJS for my work
 - 💞️ I’m looking to collaborate on building websites
