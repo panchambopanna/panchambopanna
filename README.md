@@ -2,7 +2,7 @@
 
 🏢 **Currently working at:** Dassault Systèmes  
 👨🏽‍💻 **Passionate about:** Frontend Development  
-🌱 **Tech Stack:** ReactJS, NextJS, Typescripts, Django, TailwindCSS, JavaScript, HTML, CSS
+🌱 **Tech Stack:** ReactJS, NextJS, Typescripts, Django, TailwindCSS, JavaScript, HTML, CSS   
 💞️ **Looking to collaborate on:** Building clean, responsive, and user-friendly web applications  
 📫 **Reach me at:** [pancham271195@gmail.com](mailto:pancham271195@gmail.com)
 
