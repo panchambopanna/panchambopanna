@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Pancham Bopanna D  
-- 🏢 I'm currently working at Dassault Systemes
-- 👨🏽‍💻 I’m interested in Frontend Development
-- 🌱 I use ReactJS for my work
-- 💞️ I’m looking to collaborate on building websites
-- 📫 Reach me by mail on pancham271195@gmail.com
+# 👋 Hi there, I'm Pancham Bopanna D
+
+🏢 **Currently working at:** Dassault Systèmes  
+👨🏽‍💻 **Passionate about:** Frontend Development  
+🌱 **Tech Stack:** ReactJS, NextJS, Typescripts, Django, TailwindCSS, JavaScript, HTML, CSS
+💞️ **Looking to collaborate on:** Building clean, responsive, and user-friendly web applications  
+📫 **Reach me at:** [pancham271195@gmail.com](mailto:pancham271195@gmail.com)
+
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
+
 
 ![Alt Text](https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif)
 
