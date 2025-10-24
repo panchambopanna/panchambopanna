@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Pancham Bopanna D
+# 👋 Hi there, I'm Pancham
 
 🏢 **Currently working at:** Dassault Systèmes  
 👨🏽‍💻 **Passionate about:** Frontend Development  
