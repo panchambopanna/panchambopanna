@@ -8,8 +8,6 @@
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
-
 
 ![Alt Text](https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif)
 
